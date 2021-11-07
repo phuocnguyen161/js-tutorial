@@ -1,0 +1,10 @@
+.form-container {
+    margin: 24px auto;
+    padding: 24px;
+    width: 500px;
+  }
+  
+  .form-container .form-group,
+  .form-container .row {
+    margin-bottom: 16px;
+  }
